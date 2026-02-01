@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @codingwithom
 - 👀 I’m interested in Coding,Programming, Developing
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Google
-- ⚡ Fun fact: My aim is to be Software Enginner at @Google
+- 💞️ I’m looking to collaborate with U
+- ⚡ Fun fact: Just Explor World
 
 <!---
 codingwithom/codingwithom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
